@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "419911560923",
+    "project_id": "layanan-pengaduan-online",
+    "storage_bucket": "layanan-pengaduan-online.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419911560923:android:d22e994c6d9209dc0066fe",
+        "android_client_info": {
+          "package_name": "com.example.pelayananpengaduanonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419911560923-i9fo2i53p0kr570fpjb7d05ph3i7dmun.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pelayananpengaduanonline",
+            "certificate_hash": "06e3415dabd18a882e993e772eba564b0c0d8cb4"
+          }
+        },
+        {
+          "client_id": "419911560923-rftc926ud8ju05l231qgb6n69s5eu7a1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCevIRnCfquAmVYilYz5HGuUtq9k1jTo78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419911560923-rftc926ud8ju05l231qgb6n69s5eu7a1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
